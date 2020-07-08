@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/bg1.jpg");
+  background-image: url("img/bg2.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -42,7 +42,9 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-top:-140px;
+  margin-bottom: 750px;
+  color:white;
 }
 
 .hero-image .container {
