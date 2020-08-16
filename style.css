@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   min-width: 960px;
@@ -43,7 +47,7 @@ body {
 
 .hero-image {
   margin-top:-140px;
-  margin-bottom: 750px;
+  margin-bottom: 450px;
   color:white;
 }
 
@@ -64,6 +68,11 @@ body {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
+}
+
+.scroll {
+  width: 7%;
+  height: 7%;
 }
 
 .intro {
@@ -117,6 +126,14 @@ body {
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+}
+
+.skill-js {
+  background-image: url("img/icon-js.png")
+}
+
+.skill-php {
+  background-image: url("img/icon-php.png")
 }
 
 .level {
