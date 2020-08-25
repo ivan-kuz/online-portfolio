@@ -129,11 +129,17 @@ body {
 }
 
 .skill-js {
-  background-image: url("img/icon-js.png")
+  background-image: url("img/icon-js.svg");
+  width:22px;
+  height:24px;
 }
 
 .skill-php {
-  background-image: url("img/icon-php.png")
+  background-image: url("img/icon-php.svg")
+}
+
+.skill-wp {
+  background-image: url("img/icon-wp.svg")
 }
 
 .level {
